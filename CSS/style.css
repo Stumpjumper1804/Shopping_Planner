@@ -56,7 +56,7 @@ i {
 }
 
 .main-body {
-  width: 85%;
+  width: 90%;
 }
 
 /* Styling of footer section */
@@ -92,8 +92,8 @@ footer {
   width: 200px;
 }
 
-/* @media screen and (max-width: 768px) {
-  .card-outer-div {
+@media screen and (max-width: 575px) {
+  .main-body {
     width: 100%;
   }
-} */
+}
