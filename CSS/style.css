@@ -57,6 +57,14 @@ i {
 
 .main-body {
   width: 90%;
+  padding-bottom: 30px;
+}
+
+main {
+  /* background-image: url(../images/vegetables-29063_640.png);
+  background-repeat: repeat;
+  opacity: 0.6; */
+  background-color: rgb(250, 243, 234);
 }
 
 /* Styling of footer section */
@@ -65,7 +73,6 @@ footer {
   background-color: black;
   color: white;
   padding: 5px;
-  margin: 10px;
   display: flex;
   flex-direction: column;
   justify-content: center;
